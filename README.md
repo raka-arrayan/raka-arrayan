@@ -6,6 +6,7 @@ i love a code !!!
 * 🌍  I'm based in jakarta
 * ✉️  You can contact me at [rakaarrayan27@gmail.com](mailto:rakaarrayan27@gmail.com)
 * 🧠  I'm learning C,PostgreSQL
+* 🤝  I'm open to collaborating on another project
 
 ### Skills
 
